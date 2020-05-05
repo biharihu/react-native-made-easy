@@ -1,0 +1,25 @@
+{
+  "name": "react-native-made-easy",
+  "version": "1.1.1",
+  "description": "It gives you all the basic utility so you don't have make your own utility on every project.",
+  "main": "src/index",
+  "typings": "src/index",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native",
+    "utility",
+    "easy",
+    "styling"
+  ],
+  "dependencies": {
+    "prop-types": "15.7.2"
+  },
+  "peerDependencies": {
+    "react": "^16.13.1",
+    "react-native": "^0.62.2"
+  },
+  "author": "bihari_hu",
+  "license": "ISC"
+}
